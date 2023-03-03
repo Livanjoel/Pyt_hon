@@ -1,4 +1,3 @@
-print("********CONDICIONALES*******")
 
 num1 = int(input("Ingrese el primer numero: ")) #recibe un valor de la consola
 num2 = int(input("Ingrese el segundo numero: ")) #input() recibe un valor de la consola  
